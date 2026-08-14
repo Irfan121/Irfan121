@@ -15,7 +15,7 @@ Building scalable Android products, AI-powered mobile experiences, and productio
 <a href="https://www.linkedin.com/in/irfanhaider-momin-07b93675">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/IrfanHaiderMomin">
+<a href="https://github.com/Irfan121">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -262,17 +262,12 @@ If you're working on an interesting mobile or AI product, feel free to reach out
 
 ### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/irfanhaider-momin-07b93675">
 <img src="https://img.shields.io/badge/LinkedIn-Irfan%20Haider%20Momin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/IrfanHaiderMomin">
+<a href="https://github.com/Irfan121">
 <img src="https://img.shields.io/badge/GitHub-IrfanHaiderMomin-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=IrfanHaiderMomin&style=flat-square&color=2F81F7" alt="Profile views" />
 
 <br/><br/>
 
