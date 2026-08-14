@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Irfan Haider Momin
+# 👋 Hi, I'm Irfanhaider Momin
 
 <div align="center">
 
@@ -207,11 +207,11 @@ Experience developing mobile applications focused on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IrfanHaiderMomin&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Irfan121&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanHaiderMomin&layout=compact&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan121&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
