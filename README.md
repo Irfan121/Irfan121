@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Senior+Android+Engineer;Mobile+Architect;AI+%2B+Mobile+Engineer;7%2B+Years+Building+Production+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Senior+Android+Engineer;Mobile+Architect;AI+%2B+Mobile+Engineer;8%2B+Years+Building+Production+Apps" alt="Typing SVG" />
 
 <br/>
 
