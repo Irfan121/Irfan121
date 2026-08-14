@@ -66,7 +66,7 @@ Product         Idea → Development → Launch → Growth
 | Area             | Technologies                                                    |
 | ---------------- | --------------------------------------------------------------- |
 | **Languages**    | Kotlin · Java                                                   |
-| **Android**      | Android SDK · Jetpack Compose · XML · Material Design           |
+| **Android**      | Android SDK · XML · Material Design           |
 | **Architecture** | Clean Architecture · MVVM · MVI · SOLID · Repository Pattern    |
 | **Jetpack**      | ViewModel · Navigation · Room · WorkManager · Coroutines · Flow |
 | **Backend**      | Firebase · REST APIs · Realtime Database · Firebase Storage     |
